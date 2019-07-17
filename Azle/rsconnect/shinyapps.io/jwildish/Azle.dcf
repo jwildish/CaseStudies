@@ -1,0 +1,12 @@
+name: Azle
+title: Azle
+username:
+account: jwildish
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1037813
+bundleId: 2242083
+url: https://jwildish.shinyapps.io/Azle/
+when: 1563395881.47921
+asMultiple: FALSE
+asStatic: FALSE
